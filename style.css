@@ -1,0 +1,37 @@
+#navbar{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#Centre{
+	text-align: center;
+	justify-content: center;
+	height: 400px;
+}
+
+#barre {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+#button { 
+	display: flex;
+	height: 100px;
+
+}
+
+#eco {
+	display: flex;
+	justify-content: center;
+	height: 150px;
+	align-items: flex-end;
+}
+
+#footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	height: 60px;
+}
